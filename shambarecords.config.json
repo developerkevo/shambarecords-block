@@ -1,0 +1,11 @@
+{
+  "txTimeout": 300000,
+  "skipInit": true,
+  "controllers": [
+    {
+      "name": "shambarecords-cc",
+      "version": "file:./packages/shambarecords-cc",
+      "controller": "ShambarecordsController"
+    }
+  ]
+}
