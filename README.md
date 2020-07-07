@@ -1,7 +1,8 @@
 # shambarecords - shambarecords
 
-This awesome project was created automatically with <a href="https://github.com/worldsibu/convector-cli" target="_blank">Convector CLI</a>.
-By default new Convector projects locally include <a href="https://github.com/worldsibu/hurley">Hurley</a> to manage your development environment seamlessly, so you don't have to worry about setting up the network and hard ways to install  and upgrade your chaincodes.
+This awesome project was created by <a href="https://wa.me/254714094742" target="_blank">Kevin</a>.
+It is recommended that you run an upgrade first so as to sync the code.
+
 
 ## Start
 
@@ -95,9 +96,3 @@ npm run cc:upgrade -- shambarecords 1.2
 npm run test
 ```
 
-> Check all the information to work with Convector <a href="https://docs.covalentx.com/convector" target="_blank">in the DOCS site</a>.
-
-## Collaborate to the Convector Suite projects
-
-* <a href="https://community.covalentx.com" target="_blank">Discord chat with the community</a>
-* <a href="https://github.com/worldsibu" target="_blank">Convector projects</a>
